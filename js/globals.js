@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  window.USERNAME = 'mateogianolio'; // github username
+  window.USERNAME = 'oren'; // github username
   window.REPO = 'openblog'; // github repository
-  window.TOKEN = 'e70eebb2b683a22e6b4403f8fa3423927404068b'; // github app access token
+  window.TOKEN = 'c165bb4809f138ee89e447d32184908eef4fd5b6'; // github app access token
 }());
